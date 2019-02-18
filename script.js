@@ -1,0 +1,3 @@
+$(".department").click(function(){
+	
+}) 
